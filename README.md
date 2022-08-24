@@ -3,7 +3,7 @@ Simple Apps made while learning PySimpleGUI module.
 
 Interpreter: Python 3.7
 
-Short overview of apps:
+Short overview of apps:  
 **Graph App** - makes a graph based on the y input that the User defines,  
 **Music Player** - plays the music of the user's choice. Sets its volume, stops and restarts when needed,  
 **Weather App** - Scrapes the web (google search) for the current weather fo the region that user defines,  
